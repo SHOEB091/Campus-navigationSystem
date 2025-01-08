@@ -4,6 +4,8 @@
 
 ### Frontend
 
+![Frontend](./frontend.png)
+
 1. Navigate to the `frontend` folder:
     ```sh
     cd frontend
@@ -15,4 +17,6 @@
 
 ### Backend
 
-The backend folder is currently initialized but does not require any additional setup at this time. soon workable 
+!Backend
+
+The backend folder is currently initialized but does not require any additional setup at this time. soon workable
